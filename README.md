@@ -6,7 +6,7 @@
 
 Financial systems · AWS · event-driven architecture
 
-[Portfolio](https://github.com/GodNoden/noe-new-portfolio) · [GitHub](https://github.com/GodNoden)
+[Portfolio](https://github.com/GodNoden/noe-new-portfolio) · [GitHub](https://github.com/GodNoden) · [Email](mailto:quezadanoe@gmail.com)
 
 Remote-friendly · Open to relocation
 
@@ -99,6 +99,4 @@ Deepening my work in distributed systems and financial technology through projec
 
 Remote-friendly and open to relocation. Interested in backend engineering opportunities in fintech and financial systems.
 
-[Portfolio](https://github.com/GodNoden/noe-new-portfolio) · [GitHub](https://github.com/GodNoden)
-
-<!-- Add LinkedIn and email here when ready -->
+[Email](mailto:quezadanoe@gmail.com) · [Portfolio](https://github.com/GodNoden/noe-new-portfolio) · [GitHub](https://github.com/GodNoden)
