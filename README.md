@@ -8,13 +8,15 @@ Financial systems · AWS · event-driven architecture
 
 [Portfolio](https://github.com/GodNoden/noe-new-portfolio) · [GitHub](https://github.com/GodNoden)
 
+Remote-friendly · Open to relocation
+
 </div>
 
 ---
 
 ## Profile
 
-Backend Engineer based in Guadalajara, Jalisco, with experience building backend services for financial, retail, and healthcare products. My work spans API design, system architecture, cloud deployment, testing, and operational reliability.
+Backend Engineer with experience building services for financial, retail, and healthcare products. My work spans API design, system architecture, cloud deployment, automated testing, and operational reliability.
 
 I focus on backend systems where reliability, maintainability, and domain understanding matter most, especially in fintech, banking, and financial services.
 
@@ -26,7 +28,7 @@ I focus on backend systems where reliability, maintainability, and domain unders
 
 ---
 
-## Stack
+## Technical stack
 
 ### Languages
 
@@ -89,13 +91,13 @@ Multilingual portfolio built with Next.js, TypeScript, and Tailwind. Designed fo
 
 ## Current focus
 
-I am deepening my work in distributed systems and financial technology through projects involving Kafka, Spring Boot, and Quarkus. I am also preparing for cloud certifications and continuing to build practical projects around reliability and domain-driven engineering.
+Deepening my work in distributed systems and financial technology through projects involving Kafka, Spring Boot, and Quarkus. I am also preparing for cloud certifications and building practical projects around reliability and domain-driven engineering.
 
 ---
 
 ## Contact
 
-Based in Guadalajara, Jalisco. Remote-friendly and open to backend engineering opportunities in fintech and financial systems.
+Remote-friendly and open to relocation. Interested in backend engineering opportunities in fintech and financial systems.
 
 [Portfolio](https://github.com/GodNoden/noe-new-portfolio) · [GitHub](https://github.com/GodNoden)
 
