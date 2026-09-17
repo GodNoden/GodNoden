@@ -4,7 +4,7 @@
 
 ### Backend Engineer
 
-Financial systems · AWS · event-driven architectures
+Financial systems · AWS · event-driven architecture
 
 [Portfolio](https://github.com/GodNoden/noe-new-portfolio) · [GitHub](https://github.com/GodNoden)
 
@@ -14,19 +14,19 @@ Financial systems · AWS · event-driven architectures
 
 ## Profile
 
-Backend Engineer based in Guadalajara, Jalisco, with experience building services for financial, retail, and healthcare products. My work spans API design, backend architecture, cloud deployment, testing, and operational reliability.
+Backend Engineer based in Guadalajara, Jalisco, with experience building backend services for financial, retail, and healthcare products. My work spans API design, system architecture, cloud deployment, testing, and operational reliability.
 
-I focus on systems that need strong domain understanding, clear structure, and stable delivery: fintech, banking, and financial services are the areas where I want to keep growing.
+I focus on backend systems where reliability, maintainability, and domain understanding matter most, especially in fintech, banking, and financial services.
 
 - Java, Spring Boot, and REST API design
 - Event-driven and cloud-based backend systems on AWS
 - Microservices, layered architecture, and serverless patterns
-- Maintainable backend services with automated testing
+- Automated testing and maintainable service design
 - Remote-friendly and open to relocation
 
 ---
 
-## Technical stack
+## Stack
 
 ### Languages
 
@@ -35,7 +35,7 @@ I focus on systems that need strong domain understanding, clear structure, and s
 ![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=B59CFF)
 ![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=8DB4FF)
 
-### Frameworks and UI
+### Frameworks and runtime
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=7FD39A)
 ![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FF8A80)
@@ -67,17 +67,17 @@ Banking self-service portal with integrations to the Fiserv–DNA core banking s
 Java and Spring Boot services for Grupo Bimbo. Modernized legacy catalog and inventory systems while improving maintainability and platform capabilities.
 
 ### Software Developer Jr. · Folio3 Software
-Built a compliant REST API for a healthcare company regulated by the FDA, using Laravel and MVC architecture with testing culture and service structure.
+Built a compliant REST API for a healthcare company regulated by the FDA, using Laravel and MVC architecture with a strong testing focus.
 
 ---
 
 ## Featured projects
 
 ### [BMV Technical Audit](https://github.com/GodNoden/bmv-audit)
-Independent technical audit of a financial web platform focusing on performance, accessibility, and architecture quality. Built with Lighthouse, axe, TypeScript, and SVG.
+Independent technical audit of a financial web platform focused on performance, accessibility, and architecture quality.
 
 ### [Kapital Landing Rebuild](https://github.com/GodNoden/kapital-clone)
-Engineering study rebuilding a landing page with Astro, TypeScript, and Tailwind. Optimized for lower payload and better frontend efficiency.
+Engineering study rebuilding a landing page with Astro, TypeScript, and Tailwind while optimizing payload and frontend efficiency.
 
 ### [ComerBien](https://github.com/GodNoden/ComerBien)
 Full-stack application for recipe and nutritional tracking, built with React, Java, Spring Boot, PostgreSQL, Docker, Railway, and Netlify.
@@ -95,7 +95,7 @@ I am deepening my work in distributed systems and financial technology through p
 
 ## Contact
 
-Based in Guadalajara, Jalisco. Remote-friendly and open to opportunities in backend engineering, fintech, and financial systems.
+Based in Guadalajara, Jalisco. Remote-friendly and open to backend engineering opportunities in fintech and financial systems.
 
 [Portfolio](https://github.com/GodNoden/noe-new-portfolio) · [GitHub](https://github.com/GodNoden)
 
