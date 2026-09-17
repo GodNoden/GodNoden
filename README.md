@@ -7,13 +7,11 @@
 Financial systems · AWS · event-driven architecture
 
 <p>
-  <a href="https://github.com/GodNoden"><img src="https://cdn.simpleicons.org/github/6E7781" width="16" height="16" alt="GitHub" /> GitHub</a>
+  <a href="https://www.ixmak.com">Portfolio</a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/GodNoden/noe-new-portfolio"><img src="https://cdn.simpleicons.org/vercel/6E7781" width="16" height="16" alt="Portfolio" /> Portfolio</a>
+  <a href="https://www.linkedin.com/in/noe-ixmak-quezada/">LinkedIn</a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/noe-ixmak-quezada/"><img src="https://cdn.simpleicons.org/linkedin/6E7781" width="16" height="16" alt="LinkedIn" /> LinkedIn</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:quezadanoe@gmail.com"><img src="https://cdn.simpleicons.org/gmail/6E7781" width="16" height="16" alt="Email" /> Email</a>
+  <a href="mailto:quezadanoe@gmail.com">Email</a>
 </p>
 
 Remote-friendly · Open to relocation
@@ -109,11 +107,9 @@ Deepening my work in distributed systems and financial technology through projec
 Remote-friendly and open to relocation. Interested in backend engineering opportunities in fintech and financial systems.
 
 <p>
-  <a href="mailto:quezadanoe@gmail.com"><img src="https://cdn.simpleicons.org/gmail/6E7781" width="16" height="16" alt="Email" /> Email</a>
+  <a href="mailto:quezadanoe@gmail.com">Email</a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/noe-ixmak-quezada/"><img src="https://cdn.simpleicons.org/linkedin/6E7781" width="16" height="16" alt="LinkedIn" /> LinkedIn</a>
+  <a href="https://www.linkedin.com/in/noe-ixmak-quezada/">LinkedIn</a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/GodNoden/noe-new-portfolio"><img src="https://cdn.simpleicons.org/vercel/6E7781" width="16" height="16" alt="Portfolio" /> Portfolio</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/GodNoden"><img src="https://cdn.simpleicons.org/github/6E7781" width="16" height="16" alt="GitHub" /> GitHub</a>
+  <a href="https://www.ixmak.com">Portfolio</a>
 </p>
