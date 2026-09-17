@@ -6,7 +6,10 @@
 
 Financial systems · AWS · event-driven architecture
 
-[Portfolio](https://github.com/GodNoden/noe-new-portfolio) · [GitHub](https://github.com/GodNoden) · [LinkedIn](https://www.linkedin.com/in/noe-ixmak-quezada/) · [Email](mailto:quezadanoe@gmail.com)
+<a href="https://github.com/GodNoden/noe-new-portfolio"><img src="https://img.shields.io/badge/Portfolio-6E7781?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://github.com/GodNoden"><img src="https://img.shields.io/badge/GitHub-6E7781?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/noe-ixmak-quezada/"><img src="https://img.shields.io/badge/LinkedIn-6E7781?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:quezadanoe@gmail.com"><img src="https://img.shields.io/badge/Email-6E7781?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 
 Remote-friendly · Open to relocation
 
@@ -100,4 +103,7 @@ Deepening my work in distributed systems and financial technology through projec
 
 Remote-friendly and open to relocation. Interested in backend engineering opportunities in fintech and financial systems.
 
-[Email](mailto:quezadanoe@gmail.com) · [LinkedIn](https://www.linkedin.com/in/noe-ixmak-quezada/) · [Portfolio](https://github.com/GodNoden/noe-new-portfolio) · [GitHub](https://github.com/GodNoden)
+<a href="mailto:quezadanoe@gmail.com"><img src="https://img.shields.io/badge/quezadanoe%40gmail.com-6E7781?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/noe-ixmak-quezada/"><img src="https://img.shields.io/badge/LinkedIn-6E7781?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/GodNoden/noe-new-portfolio"><img src="https://img.shields.io/badge/Portfolio-6E7781?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://github.com/GodNoden"><img src="https://img.shields.io/badge/GitHub-6E7781?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
