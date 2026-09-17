@@ -16,12 +16,13 @@ Remote-friendly · Open to relocation
 
 ## Profile
 
-Backend Engineer with experience building services for financial, retail, and healthcare products. My work spans API design, system architecture, cloud deployment, automated testing, and operational reliability.
+Backend Engineer currently providing software development services to financial institutions in the United States. My work is closely integrated with core banking systems and spans API design, system architecture, cloud deployment, automated testing, and operational reliability.
 
-I focus on backend systems where reliability, maintainability, and domain understanding matter most, especially in fintech, banking, and financial services.
+I focus on backend systems where reliability, maintainability, security, and domain understanding matter most, especially in fintech, banking, and financial services.
 
 - Java, Spring Boot, and REST API design
 - Event-driven and cloud-based backend systems on AWS
+- Integrations with core banking platforms and financial services
 - Microservices, layered architecture, and serverless patterns
 - Automated testing and maintainable service design
 - Remote-friendly and open to relocation
@@ -63,13 +64,13 @@ I focus on backend systems where reliability, maintainability, and domain unders
 ## Experience
 
 ### Backend Developer · Tekchoice LLC
-Banking self-service portal with integrations to the Fiserv–DNA core banking system. Focus on backend services, event-driven patterns, and reliable integrations.
+Currently providing backend development services for financial institutions in the United States. Building services for banking self-service experiences with integrations to the Fiserv–DNA core banking system, focusing on event-driven patterns and reliable financial integrations.
 
 ### Backend Developer Jr. · DXC Technology
-Java and Spring Boot services for Grupo Bimbo. Modernized legacy catalog and inventory systems while improving maintainability and platform capabilities.
+Developed Java and Spring Boot services for Grupo Bimbo, modernizing legacy catalog and inventory systems while improving maintainability and platform capabilities.
 
 ### Software Developer Jr. · Folio3 Software
-Built a compliant REST API for a healthcare company regulated by the FDA, using Laravel and MVC architecture with a strong testing focus.
+Built a compliant REST API using Laravel and MVC architecture, with a strong focus on service structure and automated testing.
 
 ---
 
@@ -91,7 +92,7 @@ Multilingual portfolio built with Next.js, TypeScript, and Tailwind. Designed fo
 
 ## Current focus
 
-Deepening my work in distributed systems and financial technology through projects involving Kafka, Spring Boot, and Quarkus. I am also preparing for cloud certifications and building practical projects around reliability and domain-driven engineering.
+Deepening my work in distributed systems and financial technology through projects involving Kafka, Spring Boot, and Quarkus. I am also preparing for cloud certifications and building practical projects around reliability, core banking integrations, and domain-driven engineering.
 
 ---
 
