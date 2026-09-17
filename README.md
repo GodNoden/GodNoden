@@ -2,9 +2,9 @@
 
 # Noe Quezada
 
-**Backend Engineer** · Financial Systems · AWS
+### Backend Engineer
 
-Building reliable backend services for financial products, with a focus on event-driven architectures, cloud infrastructure, and maintainable APIs.
+Financial systems · AWS · event-driven architectures
 
 [Portfolio](https://github.com/GodNoden/noe-new-portfolio) · [GitHub](https://github.com/GodNoden)
 
@@ -14,78 +14,89 @@ Building reliable backend services for financial products, with a focus on event
 
 ## Profile
 
-Backend Engineer based in Guadalajara, Jalisco, currently building financial systems on AWS. I have experience delivering backend services for banking, retail, and healthcare products, working across API design, automated testing, cloud deployment, and observability.
+Backend Engineer based in Guadalajara, Jalisco, with experience building services for financial, retail, and healthcare products. My work spans API design, backend architecture, cloud deployment, testing, and operational reliability.
 
-My primary focus is backend engineering for fintech, banking, and financial services, where reliability, security, maintainability, and domain understanding are essential.
+I focus on systems that need strong domain understanding, clear structure, and stable delivery: fintech, banking, and financial services are the areas where I want to keep growing.
 
-- Building services for a banking self-service portal at **Tekchoice**.
-- Designing backend systems with Java, Spring Boot, REST APIs, AWS, and event-driven architectures.
-- Working with microservices, serverless solutions, layered architecture, and MVC.
-- Applying automated testing and measurable engineering practices.
-- Based in Guadalajara, Jalisco; available for remote work and open to relocation.
+- Java, Spring Boot, and REST API design
+- Event-driven and cloud-based backend systems on AWS
+- Microservices, layered architecture, and serverless patterns
+- Maintainable backend services with automated testing
+- Remote-friendly and open to relocation
 
-## Technical profile
+---
+
+## Technical stack
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-172033?style=flat-square&logo=openjdk&logoColor=E8B86D)
-![TypeScript](https://img.shields.io/badge/TypeScript-172033?style=flat-square&logo=typescript&logoColor=61DAFB)
-![PHP](https://img.shields.io/badge/PHP-172033?style=flat-square&logo=php&logoColor=B8A9E8)
-![SQL](https://img.shields.io/badge/SQL-172033?style=flat-square&logo=postgresql&logoColor=82B1FF)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=F4B366)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=7CC3FF)
+![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=B59CFF)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=8DB4FF)
 
-### Frameworks and runtime
+### Frameworks and UI
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-172033?style=flat-square&logo=springboot&logoColor=7BC96F)
-![Laravel](https://img.shields.io/badge/Laravel-172033?style=flat-square&logo=laravel&logoColor=FF8A80)
-![Next.js](https://img.shields.io/badge/Next.js-172033?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
-![React](https://img.shields.io/badge/React-172033?style=flat-square&logo=react&logoColor=61DAFB)
-![Astro](https://img.shields.io/badge/Astro-172033?style=flat-square&logo=astro&logoColor=FFB86C)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=7FD39A)
+![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FF8A80)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=7CC3FF)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
+![Astro](https://img.shields.io/badge/Astro-0D1117?style=for-the-badge&logo=astro&logoColor=FFB86C)
 
-### Cloud, DevOps, and data
+### Cloud, infrastructure, and data
 
-![AWS](https://img.shields.io/badge/AWS-172033?style=flat-square&logo=amazonaws&logoColor=FFB86C)
-![Docker](https://img.shields.io/badge/Docker-172033?style=flat-square&logo=docker&logoColor=6EC6FF)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-172033?style=flat-square&logo=githubactions&logoColor=7CB7FF)
-![Linux](https://img.shields.io/badge/Linux-172033?style=flat-square&logo=linux&logoColor=F5D76E)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-172033?style=flat-square&logo=postgresql&logoColor=82B1FF)
-![MySQL](https://img.shields.io/badge/MySQL-172033?style=flat-square&logo=mysql&logoColor=6EC6FF)
+![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FFB86C)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=6AB2FF)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=A7C7FF)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FFD76A)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=8DB4FF)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=6AB2FF)
 
-**AWS services:** Lambda · API Gateway · CloudFormation · S3 · Cognito · CloudWatch · IAM
+### Architecture and practices
 
-### Architecture and engineering
+`REST API Design` · `Swagger / OpenAPI` · `Microservices` · `Serverless` · `Event-driven architecture` · `MVC` · `Controller–Service–Repository` · `JUnit` · `PHPUnit`
 
-`REST API Design` · `Swagger / OpenAPI` · `Microservices` · `Event-driven architecture` · `Serverless` · `Controller–Service–Repository` · `MVC` · `JUnit` · `PHPUnit`
-
-## Selected work
-
-### [BMV Technical Audit](https://github.com/GodNoden/bmv-audit)
-Independent technical audit focused on measurable performance, accessibility, and architecture findings using Lighthouse, axe, TypeScript, and SVG.
-
-### [Kapital Landing Rebuild](https://github.com/GodNoden/kapital-clone)
-Engineering study built with Astro, TypeScript, Tailwind CSS, and i18n. Reduced HTTP requests by 60%, transferred bytes by 62%, JavaScript payload by 98%, and CSS by 95% compared with the original implementation.
-
-### [ComerBien](https://github.com/GodNoden/ComerBien)
-Full-stack recipe and nutritional tracking application built with React, Java, Spring Boot, PostgreSQL, Docker, Railway, and Netlify.
-
-### [Personal portfolio](https://github.com/GodNoden/noe-new-portfolio)
-Multilingual portfolio built with Next.js App Router, TypeScript, Tailwind CSS, next-themes, and a component-driven architecture. Supports English, Spanish, and French, with system-aware dark mode.
+---
 
 ## Experience
 
-- **Backend Developer · Tekchoice LLC** — Banking self-service portal and integrations with the Fiserv–DNA core banking system.
-- **Backend Developer Jr. · DXC Technology** — Java and Spring Boot services for Grupo Bimbo; modernization of legacy catalog and inventory systems.
-- **Software Developer Jr. · Folio3 Software** — FDA-regulated healthcare REST API developed with Laravel, MVC, and PHPUnit.
+### Backend Developer · Tekchoice LLC
+Banking self-service portal with integrations to the Fiserv–DNA core banking system. Focus on backend services, event-driven patterns, and reliable integrations.
 
-## Current direction
+### Backend Developer Jr. · DXC Technology
+Java and Spring Boot services for Grupo Bimbo. Modernized legacy catalog and inventory systems while improving maintainability and platform capabilities.
 
-Deepening my expertise in distributed and financial systems through a **Global Markets Event Platform** project with Kafka, Spring Boot, and Quarkus. I am also preparing for AWS and Google Cloud certifications and continuing to build practical projects around performance, reliability, and domain-focused software.
+### Software Developer Jr. · Folio3 Software
+Built a compliant REST API for a healthcare company regulated by the FDA, using Laravel and MVC architecture with testing culture and service structure.
+
+---
+
+## Featured projects
+
+### [BMV Technical Audit](https://github.com/GodNoden/bmv-audit)
+Independent technical audit of a financial web platform focusing on performance, accessibility, and architecture quality. Built with Lighthouse, axe, TypeScript, and SVG.
+
+### [Kapital Landing Rebuild](https://github.com/GodNoden/kapital-clone)
+Engineering study rebuilding a landing page with Astro, TypeScript, and Tailwind. Optimized for lower payload and better frontend efficiency.
+
+### [ComerBien](https://github.com/GodNoden/ComerBien)
+Full-stack application for recipe and nutritional tracking, built with React, Java, Spring Boot, PostgreSQL, Docker, Railway, and Netlify.
+
+### [Portfolio](https://github.com/GodNoden/noe-new-portfolio)
+Multilingual portfolio built with Next.js, TypeScript, and Tailwind. Designed for clarity, responsiveness, and clean presentation.
+
+---
+
+## Current focus
+
+I am deepening my work in distributed systems and financial technology through projects involving Kafka, Spring Boot, and Quarkus. I am also preparing for cloud certifications and continuing to build practical projects around reliability and domain-driven engineering.
+
+---
 
 ## Contact
 
-I am interested in backend engineering roles, particularly in fintech and financial services.
-
-**Guadalajara, Jalisco** · Remote-friendly
+Based in Guadalajara, Jalisco. Remote-friendly and open to opportunities in backend engineering, fintech, and financial systems.
 
 [Portfolio](https://github.com/GodNoden/noe-new-portfolio) · [GitHub](https://github.com/GodNoden)
 
-<!-- Add your LinkedIn and professional email here when ready. -->
+<!-- Add LinkedIn and email here when ready -->
