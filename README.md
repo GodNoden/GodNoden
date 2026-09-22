@@ -69,10 +69,10 @@ I focus on backend systems where reliability, maintainability, security, and dom
 
 ## Experience
 
-### Backend Developer · Tekchoice LLC
+### Backend Engineer · Tekchoice LLC
 Currently providing backend development services for financial institutions in the United States. Building services for banking self-service experiences with integrations to the Fiserv–DNA core banking system, focusing on event-driven patterns and reliable financial integrations.
 
-### Backend Developer Jr. · DXC Technology
+### Backend Engineer Jr. · DXC Technology
 Developed Java and Spring Boot services for Grupo Bimbo, modernizing legacy catalog and inventory systems while improving maintainability and platform capabilities.
 
 ### Software Developer Jr. · Folio3 Software
